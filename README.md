@@ -1,5 +1,6 @@
 # react-native-bottom-sheet-dropdown
 
+```
 import React, {useState} from 'react';
 import {SafeAreaView} from 'react-native';
 import {Dropdown} from './src/components';
@@ -65,3 +66,4 @@ const App = () => {
 };
 
 export default App;
+```
