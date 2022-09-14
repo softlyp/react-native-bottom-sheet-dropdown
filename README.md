@@ -1,12 +1,16 @@
 # react-native-bottom-sheet-dropdown
+# Install with npm
+# npm i react-native-bottom-sheet-dropdown
+
 
 ``` javascript
 
 # Example
 
+
 import React, {useState} from 'react';
 import {SafeAreaView} from 'react-native';
-import {Dropdown} from './src/components';
+import {Dropdown} from 'react-native-bottom-sheet-dropdown';
 
 const App = () => {
   const [dataValue, setDataValue] = useState(0);
