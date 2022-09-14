@@ -4,6 +4,12 @@
   "description": "Super lightweight component, no third party libraries and super customizable. for react-native",
   "main": "./src/components/Dropdown/index.js",
   "license": "MIT",
+  "keywords": [
+    "react-native",
+    "bottom-sheet",
+    "dropdown",
+    "lite"
+  ],
   "author": "Paracodex",
   "scripts": {
     "android": "react-native run-android",
