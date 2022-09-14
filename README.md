@@ -2,11 +2,6 @@
 
 ``` javascript
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> e5dee043db72cd27df46ca93013e1b39882cefae
 # Example
 
 import React, {useState} from 'react';
@@ -55,11 +50,7 @@ const App = () => {
   
   /**
   
-<<<<<<< HEAD
    # props usage
-=======
-   # props
->>>>>>> e5dee043db72cd27df46ca93013e1b39882cefae
    animationType =>  Number =>  1 | 2
    persistent   => Boolean => true  | false
    closeTouch   => Boolean =>  true  | false
@@ -94,7 +85,3 @@ export default App;
 ![image](https://user-images.githubusercontent.com/54526418/190272780-428198fd-a946-4aeb-a52e-5e28d9d4bdc3.png)
 
 ![image](https://user-images.githubusercontent.com/54526418/190272860-3aed457a-873a-4944-86bd-b3875bbe41e2.png)
-<<<<<<< HEAD
-=======
-
->>>>>>> e5dee043db72cd27df46ca93013e1b39882cefae
