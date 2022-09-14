@@ -1,6 +1,6 @@
 {
   "name": "react-native-bottom-sheet-dropdown",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Super lightweight component, no third party libraries and super customizable. for react-native",
   "main": "./src/components/Dropdown/index.js",
   "license": "MIT",
