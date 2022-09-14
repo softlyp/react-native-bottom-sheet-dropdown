@@ -2,7 +2,7 @@
 # Install with npm
 # npm i react-native-bottom-sheet-dropdown
 
-
+- Super lightweight component, no third party libraries and super customizable. for react-native
 ``` javascript
 
 # Example
