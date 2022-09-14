@@ -1,13 +1,12 @@
 # react-native-bottom-sheet-dropdown
-# Install with npm
+- Install with npm
 # npm i react-native-bottom-sheet-dropdown
 
 - Super lightweight component, no third party libraries and super customizable. for react-native
+
+- Example
+
 ``` javascript
-
-# Example
-
-
 import React, {useState} from 'react';
 import {SafeAreaView} from 'react-native';
 import {Dropdown} from 'react-native-bottom-sheet-dropdown';
