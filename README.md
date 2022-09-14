@@ -1,6 +1,11 @@
 # react-native-bottom-sheet-dropdown
 
 ``` javascript
+
+
+
+# Example
+
 import React, {useState} from 'react';
 import {SafeAreaView} from 'react-native';
 import {Dropdown} from './src/components';
