@@ -49,7 +49,19 @@ const App = () => {
     marginBottom: 7,
     marginTop: 7,
   };
-
+  
+  /**
+  
+   # props
+   animationType =>  Number =>  1 | 2
+   persistent   => Boolean => true  | false
+   closeTouch   => Boolean =>  true  | false
+   onValueChange => function => onValueChange()
+   selected => Number  
+   
+  **/
+  
+  
   return (
     <SafeAreaView>
       <Dropdown
