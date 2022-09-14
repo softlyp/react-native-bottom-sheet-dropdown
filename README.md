@@ -67,3 +67,7 @@ const App = () => {
 
 export default App;
 ```
+![image](https://user-images.githubusercontent.com/54526418/190272780-428198fd-a946-4aeb-a52e-5e28d9d4bdc3.png)
+
+![image](https://user-images.githubusercontent.com/54526418/190272860-3aed457a-873a-4944-86bd-b3875bbe41e2.png)
+
