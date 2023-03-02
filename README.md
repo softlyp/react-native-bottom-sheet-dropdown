@@ -4,7 +4,6 @@
 
 - Super lightweight component, no third party libraries and super customizable. for react-native
 
-- Wallet BTC 15onuKu3UKhRnD8CcxSc6jyPf94jqYGB9p , Donate a cup of coffe 
 
 - Example
 
